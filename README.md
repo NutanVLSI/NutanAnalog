@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NutanAnalog
-- 👀 I’m interested in ...Analog IC Design
+- 👀 I’m interested in ...Electronics
 - 🌱 I’m currently learning ...VLSI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
