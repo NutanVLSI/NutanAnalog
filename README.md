@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NutanAnalog
+- 👋 Hi, I’m @Nutan
 - 👀 I’m interested in ...Electronics
 - 🌱 I’m currently learning ...VLSI
 - 💞️ I’m looking to collaborate on ...
